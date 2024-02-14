@@ -333,6 +333,10 @@ button:hover {
     grid-template-columns: repeat(4, 1fr);
   }
 
+  .work-slider {
+    margin-block: 120px;
+  }
+
   .contact {
     flex-direction: column;
     gap: 24px;
@@ -380,6 +384,11 @@ button:hover {
 
   .hero-grid {
     grid-template-columns: repeat(2, 1fr);
+  }
+
+  .work-slider {
+    margin-block: 100px;
+    gap: 32px;
   }
 
   .slider {
