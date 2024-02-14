@@ -29,7 +29,9 @@ Users should be able to:
 
 ### Built with
 
-- [React](https://reactjs.org/) - JS library
+- JavaScript
+- HTML
+- CSS
 - Vite
 
 ## Author
