@@ -1,5 +1,3 @@
-import "./style.css";
-
 var headerElement = `<div class="header"><img src="./assets/logo.svg" alt="logo" />
 <button class="button-text">Free Consultation</button></div>`;
 
