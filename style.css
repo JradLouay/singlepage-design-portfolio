@@ -130,11 +130,15 @@ button {
   margin-bottom: 27px;
 }
 
+.hero-text p {
+  color: var(--Medium-Brown);
+}
+
 .hero-grid {
   display: grid;
   gap: 24px;
   grid-template-columns: repeat(6, 1fr);
-  grid-auto-rows: minmax(182px, 182px);
+  grid-template-rows: 182px 158px;
   margin-bottom: 136px;
 }
 
@@ -331,6 +335,7 @@ button:hover {
 
   .hero-grid {
     grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: 182px 158px 182px;
   }
 
   .work-slider {
@@ -384,6 +389,7 @@ button:hover {
 
   .hero-grid {
     grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: 182px 182px 182px 158px 182px 182px;
   }
 
   .work-slider {
