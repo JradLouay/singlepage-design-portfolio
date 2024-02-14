@@ -25,7 +25,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/JradLouay/singlepage-design-portfolio)
-- Live Site URL: (https://gorgeous-tiramisu-4ba9c2.netlify.app/)
+- Live Site URL: (https://singlepage-design-portfolio.netlify.app/)
 
 ### Built with
 
